@@ -1,0 +1,46 @@
+IYR: The year the accident occurred
+IMO: The month the accident occurred
+RAILROAD: The name of the railroad company involved in the accident
+INCDTNO: The incident number assigned to the accident
+IYR2: The year of a second accident that occurred in the same location as the first accident (if applicable)
+IMO2: The month of a second accident that occurred in the same location as the first accident (if applicable)
+RR2: The name of the railroad company involved in the second accident (if applicable)
+INCDTNO2: The incident number assigned to the second accident (if applicable)
+IYR3: The year of a third accident that occurred in the same location as the first accident (if applicable)
+IMO3: The month of a third accident that occurred in the same location as the first accident (if applicable)
+RR3: The name of the railroad company involved in the third accident (if applicable)
+INCDTNO3: The incident number assigned to the third accident (if applicable)
+DUMMY1: A dummy variable
+GXID: A unique identifier for the accident
+YEAR: The year the accident occurred (repeated)
+MONTH: The month the accident occurred (repeated)
+DAY: The day of the month the accident occurred
+TIMEHR: The hour of the day the accident occurred
+TIMEMIN: The minute of the hour the accident occurred
+AMPM: Whether the accident occurred in the morning or afternoon/evening
+"TYPE: The type of accident (e.g. derailment, collision, fire, explosion)"
+CARS: The number of rail cars involved in the accident
+CARSDMG: The number of rail cars that were damaged in the accident
+CARSHZD: The number of rail cars that were hazmat cars
+EVACUATE: Whether or not an evacuation was necessary as a result of the accident
+DIVISION: The division of the railroad company involved in the accident
+STATION: The station name where the accident occurred
+MILEPOST: The milepost where the accident occurred
+STATE: The state where the accident occurred
+TEMP: The temperature at the time of the accident
+VISIBLTY: The visibility at the time of the accident
+WEATHER: The weather conditions at the time of the accident
+TRNSPD: The speed of the train at the time of the accident
+TYPSPD: The typical speed limit for the area where the accident occurred
+TRNNBR: The train number
+"TRNDIR: The direction the train was traveling (e.g. northbound, eastbound)"
+TONS: The weight of the train in tons
+"TYPEQ: The type of train (e.g. freight, passenger, mixed)"
+"EQATT: The equipment involved in the accident (e.g. locomotive, boxcar, tanker)"
+TRKNAME: The name of the track where the accident occurred
+"TRKCLAS: The class of track where the accident occurred (e.g. main, siding, yard)"
+TRKDNSTY: The track density in the area where the accident occurred
+TYPTRK: The typical track configuration for the area where the accident occurred
+RRCAR1: The first railroad car involved in the accident
+CARNBR1: The car number of the first railroad car involved in the accident
+POSITON1: The position of the first railroad car in the train

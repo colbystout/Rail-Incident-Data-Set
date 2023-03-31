@@ -1,0 +1,390 @@
+Code,Description,Category,Title
+E51C ,Broken or bent axle between wheel seats ,Axles and Journal Bearings,Mechanical and Electrical Failures
+E51L ,Broken or bent axle between wheel seats (LOCOMOTIVE),Axles and Journal Bearings,Mechanical and Electrical Failures
+E52C ,Journal (plain) failure from overheating,Axles and Journal Bearings,Mechanical and Electrical Failures
+E52L ,Journal (plain) failure from overheating (LOCOMOTIVE) ,Axles and Journal Bearings,Mechanical and Electrical Failures
+E53C ,Journal (roller bearing) failure from overheating ,Axles and Journal Bearings,Mechanical and Electrical Failures
+E53L ,Journal (roller bearing) failure from overheating- LOCOMOTIVE,Axles and Journal Bearings,Mechanical and Electrical Failures
+E54C ,"Journal fractured, new cold break ",Axles and Journal Bearings,Mechanical and Electrical Failures
+E54L ,"Journal fractured, new cold break (LOCOMOTIVE) ",Axles and Journal Bearings,Mechanical and Electrical Failures
+E55C ,"Journal fractured, cold break, previously overheated ",Axles and Journal Bearings,Mechanical and Electrical Failures
+E55L ,"Journal fractured, cold break, previously overheated  (LOCOMOTIVE) ",Axles and Journal Bearings,Mechanical and Electrical Failures
+E59C ,Other axle and journal bearing defects (CAR) (Provide detailed description in narrative) ,Axles and Journal Bearings,Mechanical and Electrical Failures
+E59L ,Other axle and journal bearing defects (LOCOMOTIVE) (Provide detailed description in narrative),Axles and Journal Bearings,Mechanical and Electrical Failures
+E32L,Couple drawhead broken or defective (locomotive),Coupler and Draft System ,Mechanical and Electrical Failures
+E33C ,Coupler retainer pin/cross key missing,Coupler and Draft System ,Mechanical and Electrical Failures
+E34C,Draft gear/mechanism broken or defective (including yoke) ,Coupler and Draft System ,Mechanical and Electrical Failures
+E35L,Coupler carrier broken or defective (LOCOMOTIVE) ,Coupler and Draft System ,Mechanical and Electrical Failures
+E80C ,Box car plug door open ,Doors,Mechanical and Electrical Failures
+E81C ,"Box car plug door, attachment defective ",Doors,Mechanical and Electrical Failures
+E82C ,"Box car plug door, locking lever not in place ",Doors,Mechanical and Electrical Failures
+E83C ,"Box car door, other than plug, open ",Doors,Mechanical and Electrical Failures
+E84C ,"Box car door, other than plug, attachment defective ",Doors,Mechanical and Electrical Failures
+E85C ,Bottom outlet car door open ,Doors,Mechanical and Electrical Failures
+E86C ,Bottom outlet car door attachment defective ,Doors,Mechanical and Electrical Failures
+E89C ,Other car door defects (Provide detail description in  narrative) ,Doors,Mechanical and Electrical Failures
+E99C ,"Other mechanical and electrical failures, (CAR) (Provide detailed description in narrative) ",General Mechanical Electrical Failures,Mechanical and Electrical Failures
+E99L ,"Other mechanical and electrical failures, (LOCOMOTIVE) (Provide detailed description in narrative) ",General Mechanical Electrical Failures,Mechanical and Electrical Failures
+E70L ,Running gear failure (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E71L ,Traction motor failure (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E72L ,Crank case or air box explosion (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E73L ,Oil or fuel fire (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E74L ,Electrically caused fire (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E75L ,Current collector system (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E76L ,Remote control equipment inoperative (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E77L ,Broken or defective swing hanger or spring plank  (LOCOMOTIVE) ,Locomotives,Mechanical and Electrical Failures
+E78L,Pantograph defect (LOCOMOTIVE),Locomotives,Mechanical and Electrical Failures
+E79L ,Other locomotive defects (Provide detail description in narrative) ,Locomotives,Mechanical and Electrical Failures
+E7AL,On-board computer - failure to respond (LOCOMOTIVE),Locomotives,Mechanical and Electrical Failures
+E7BL,Third rail shoe or shoe beam (LOCOMOTIVE)  ,Locomotives,Mechanical and Electrical Failures
+E40C ,Side bearing clearance insufficient ,Truck Components,Mechanical and Electrical Failures
+E40L ,Side bearing clearance insufficient (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E41C ,Side bearing clearance excessive ,Truck Components,Mechanical and Electrical Failures
+E41L ,Side bearing clearance excessive (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E42C ,Side bearing(s) broken ,Truck Components,Mechanical and Electrical Failures
+E42L ,Side bearing(s) broken (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E43C ,Side bearing(s) missing ,Truck Components,Mechanical and Electrical Failures
+E43L ,Side bearing(s) missing (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E44C ,Truck bolster broken ,Truck Components,Mechanical and Electrical Failures
+E44L ,Truck bolster broken (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E45C ,Side frame broken ,Truck Components,Mechanical and Electrical Failures
+E45L ,Side frame broken (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E46C ,"Truck bolster stiff, improper swiveling",Truck Components,Mechanical and Electrical Failures
+E46L ,"Truck bolster stiff, improper lateral or improper swiveling(LOCOMOTIVE) ",Truck Components,Mechanical and Electrical Failures
+E47C ,Defective snubbing  (including friction and hydraulic) ,Truck Components,Mechanical and Electrical Failures
+E47L ,Defective snubbing (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E48C ,"Broken, missing, or otherwise defective springs  (including incorrect repair and/or installation) ",Truck Components,Mechanical and Electrical Failures
+E48L ,"Broken, missing, or otherwise defective springs (LOCOMOTIVE)",Truck Components,Mechanical and Electrical Failures
+E49C ,"Other truck component defects, including mismatched side frames  (CAR) (Provide detailed description in narrative) ",Truck Components,Mechanical and Electrical Failures
+E49L ,"Other truck component defects, (LOCOMOTIVE) (Provide  detailed description in narrative)",Truck Components,Mechanical and Electrical Failures
+E4AC,Gib Clearance (lateral motion excessive) ,Truck Components,Mechanical and Electrical Failures
+E4BC,Truck bolster stiff (failure to slew),Truck Components,Mechanical and Electrical Failures
+E4TC ,Truck hunting ,Truck Components,Mechanical and Electrical Failures
+E4TL ,Truck hunting (LOCOMOTIVE) ,Truck Components,Mechanical and Electrical Failures
+E60C ,Broken flange ,Wheels,Mechanical and Electrical Failures
+E60L ,Broken flange (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E61C ,Broken rim ,Wheels,Mechanical and Electrical Failures
+E61L ,Broken rim (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E62C ,Broken plate ,Wheels,Mechanical and Electrical Failures
+E62L ,Broken plate (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E63C ,Broken hub ,Wheels,Mechanical and Electrical Failures
+E63L ,Broken hub (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E64C ,Worn flange ,Wheels,Mechanical and Electrical Failures
+E64L ,Worn flange (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E65C ,Worn tread ,Wheels,Mechanical and Electrical Failures
+E65L ,Worn tread (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E66C ,Damaged flange or tread (flat) ,Wheels,Mechanical and Electrical Failures
+E66L ,Damaged flange or tread (flat) (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E67C ,Damaged flange or tread (build up) ,Wheels,Mechanical and Electrical Failures
+E67L ,Damaged flange or tread (build up) (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E68C ,Loose wheel ,Wheels,Mechanical and Electrical Failures
+E68L ,Loose wheel (LOCOMOTIVE) ,Wheels,Mechanical and Electrical Failures
+E69C ,Other wheel defects (CAR) (Provide detailed description in  narrative),Wheels,Mechanical and Electrical Failures
+E69L ,Other wheel defects (LOCOMOTIVE) (Provide detailed description in narrative),Wheels,Mechanical and Electrical Failures
+E6AC ,"Thermal crack, flange or tread ",Wheels,Mechanical and Electrical Failures
+E6AL ,"Thermal crack, flange or tread (LOCOMOTIVE) ",Wheels,Mechanical and Electrical Failures
+E20C ,Body bolster broken or defective ,  Body ,Mechanical and Electrical Failures
+E20L ,Body bolster broken or defective (LOCOMOTIVE) ,  Body ,Mechanical and Electrical Failures
+E21C ,Center sill broken or bent ,  Body ,Mechanical and Electrical Failures
+E22L ,Draft sill broken or bent (LOCOMOTIVE) ,  Body ,Mechanical and Electrical Failures
+E23C ,Center plate broken or defective ,  Body ,Mechanical and Electrical Failures
+E23L ,Center plate broken or defective (LOCOMOTIVE) ,  Body ,Mechanical and Electrical Failures
+E24C ,Center plate disengaged from truck (car off center) ,  Body ,Mechanical and Electrical Failures
+E24L,Center plate disengaged from truck unit/off center (LOCOMOTIVE),  Body ,Mechanical and Electrical Failures
+E25C ,Center pin broken or missing ,  Body ,Mechanical and Electrical Failures
+E25L ,Center pin broken or missing (LOCOMOTIVE) ,  Body ,Mechanical and Electrical Failures
+E26C ,Center plate attachment defective ,  Body ,Mechanical and Electrical Failures
+E26L ,Center plate attachment defective (LOCOMOTIVE) ,  Body ,Mechanical and Electrical Failures
+E27C ,Side sill broken ,  Body ,Mechanical and Electrical Failures
+E27L ,Side sill broken (LOCOMOTIVE) ,  Body ,Mechanical and Electrical Failures
+E29C ,"Other body defects, (CAR) (Provide detailed description in  narrative)",  Body ,Mechanical and Electrical Failures
+E29L ,"Other body defects, (LOCOMOTIVE) (Provide detailed description in narrative)",  Body ,Mechanical and Electrical Failures
+E21L ,Center sill broken or bent (LOCOMOTIVE) , Body ,Mechanical and Electrical Failures
+E22C ,Draft sill broken or bent , Body ,Mechanical and Electrical Failures
+E00C ,Air hose uncoupled or burst ,Brake,Mechanical and Electrical Failures
+E00L ,Air hose uncoupled or burst (LOCOMOTIVE) ,Brake,Mechanical and Electrical Failures
+E01C ,Hydraulic hose uncoupled or burst ,Brake,Mechanical and Electrical Failures
+E01L ,Hydraulic hose uncoupled or burst (LOCOMOTIVE) ,Brake,Mechanical and Electrical Failures
+E02C ,Broken brake pipe or connections ,Brake,Mechanical and Electrical Failures
+E02L ,Broken brake pipe or connections (LOCOMOTIVE) ,Brake,Mechanical and Electrical Failures
+E03C ,"Obstructed brake pipe (closed angle cock, ice, etc.) ",Brake,Mechanical and Electrical Failures
+E03L ,"Obstructed brake pipe (closed angle cock, ice, etc.)  (LOCOMOTIVE) ",Brake,Mechanical and Electrical Failures
+E04C ,"Other brake components damaged, worn, broken, or disconnected",Brake,Mechanical and Electrical Failures
+E04L ,"Other brake components damaged, worn, broken, or disconnected (LOCOMOTIVE) ",Brake,Mechanical and Electrical Failures
+E05C ,Brake valve malfunction (undesired emergency) ,Brake,Mechanical and Electrical Failures
+E05L ,Brake valve malfunction (undesired emergency) (LOCOMOTIVE),Brake,Mechanical and Electrical Failures
+E06C ,"Brake valve malfunction (stuck brake, etc.) ",Brake,Mechanical and Electrical Failures
+E06L ,"Brake valve malfunction (stuck brake, etc.) (LOCOMOTIVE) ",Brake,Mechanical and Electrical Failures
+E07C ,Rigging down or dragging ,Brake,Mechanical and Electrical Failures
+E07L ,Rigging down or dragging (LOCOMOTIVE) ,Brake,Mechanical and Electrical Failures
+E08C ,Hand brake (including gear) broken or defective ,Brake,Mechanical and Electrical Failures
+E08L ,Hand brake (including gear) broken or defective (LOCOMOTIVE),Brake,Mechanical and Electrical Failures
+E09C ,"Other brake defects, cars (Provide detailed description in  narrative) ",Brake,Mechanical and Electrical Failures
+E09L ,"Other brake defects, (Provide detailed description in narrative) (LOCOMOTIVE) ",Brake,Mechanical and Electrical Failures
+E0HC,Hand brake linkage and/or connections broken or defective ,Brake,Mechanical and Electrical Failures
+E0HL ,Hand brake linkage/Connections broken/defective (LOCOMOTIVE),Brake,Mechanical and Electrical Failures
+E10L ,Computer controlled brake communication failure (LOCOMOTIVE) ,Brake,Mechanical and Electrical Failures
+E30C,Knuckle broken or defective ,Coupler and Draft System ,Mechanical and Electrical Failures
+E30L ,Knuckle broken or defective,Coupler and Draft System ,Mechanical and Electrical Failures
+E31C,"Coupler mismatch, high/low ",Coupler and Draft System ,Mechanical and Electrical Failures
+E31L ,"Coupler mismatch, high/low (LOCOMOTIVE) ",Coupler and Draft System ,Mechanical and Electrical Failures
+E32C,Couple drawhead broken or defective,Coupler and Draft System ,Mechanical and Electrical Failures
+E33L,Coupler retainer pin/cross key missing (LOCOMOTIVE) ,Coupler and Draft System ,Mechanical and Electrical Failures
+E34L,Draft gear/mechanism broken/defective (including yoke) (LOCOMOTIVE),Coupler and Draft System ,Mechanical and Electrical Failures
+E35C,Coupler carrier broken or defective ,Coupler and Draft System ,Mechanical and Electrical Failures
+E36C,Coupler shank broken or defective (includes defective alignment control),Coupler and Draft System ,Mechanical and Electrical Failures
+E36L,Coupler shank broken or defective (includes defective includes defective alignment control) (LOCOMOTIVE) ,Coupler and Draft System ,Mechanical and Electrical Failures
+E37C,Failure of articulated connectors ,Coupler and Draft System ,Mechanical and Electrical Failures
+E37L,Failure of articulated connectors (LOCOMOTIVE)  ,Coupler and Draft System ,Mechanical and Electrical Failures
+E39C ,"Other coupler and draft system defects, (CAR) (Provide detailed description in narrative) ",Coupler and Draft System ,Mechanical and Electrical Failures
+E39L,"Other coupler and draft system defects, (LOCOMOTIVE)  (Provide detailed description in narrative)",Coupler and Draft System ,Mechanical and Electrical Failures
+E11C ,Broken or defective tiedown equipment ,Trailer Or Container On Flatcar,Mechanical and Electrical Failures
+E12C ,Broken or defective container ,Trailer Or Container On Flatcar,Mechanical and Electrical Failures
+E13C ,Broken or defective trailer ,Trailer Or Container On Flatcar,Mechanical and Electrical Failures
+E19C ,Other trailer or container on flat car defects (Provide detailed description in narrative) ,Trailer Or Container On Flatcar,Mechanical and Electrical Failures
+M101 ,"Snow, ice, mud, gravel, coal, sand, etc. on track ",Environment Conditions,Miscellaneous Causes Not Otherwise Listed
+M102 ,Extreme environmental condition ‑ TORNADO ,Environment Conditions,Miscellaneous Causes Not Otherwise Listed
+M103 ,Extreme environmental condition ‑ FLOOD ,Environment Conditions,Miscellaneous Causes Not Otherwise Listed
+M104 ,Extreme environmental condition ‑ DENSE FOG ,Environment Conditions,Miscellaneous Causes Not Otherwise Listed
+M105 ,Extreme environmental condition ‑ EXTREME WIND VELOCITY ,Environment Conditions,Miscellaneous Causes Not Otherwise Listed
+M199 ,Other extreme environmental conditions (Provide detailed description in narrative) ,Environment Conditions,Miscellaneous Causes Not Otherwise Listed
+M201 ,Load shifted ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M202 ,Load fell from car ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M203 ,Overloaded car ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M204 ,Improperly loaded car ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M206 ,Trailer or container tiedown equipment improperly applied ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M207 ,Overloaded container/trailer on flat car ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M208,Improperly loaded container/trailer on flat car ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M299 ,Miscellaneous loading procedures (Provide detailed description in narrative) ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M301 ,"Highway user impairment because of drug or alcohol usage  (as determined by local authorities, e.g., police) ",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M302 ,Highway user inattentiveness ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M303 ,Highway user misjudgment under normal weather and traffic conditions,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M304 ,Highway user cited for violation of highway-rail grade crossing traffic laws,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M305 ,"Highway user unawareness due to environmental factors  (angle of sun, etc.)",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M306 ,"Highway user inability to stop due to extreme weather conditions (dense fog, ice or snow packed road, etc.)",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M307 ,"Malfunction, improper operation of train activated warning devices ",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M308   ,Highway user deliberately disregarded crossing warning devices,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M401 ,Emergency brake application to avoid accident ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M402 ,Object or equipment on or fouling track (motor vehicle - other than highway-rail crossing) ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M403,Object or equipment on or fouling track (livestock) ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M404 ,"Object or equipment on or fouling track - other than above (for  vandalism, see code M503) ",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M405 ,Interaction of lateral/vertical forces (includes harmonic rock off) ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M406 ,"Fire, other than vandalism, involving on‑track equipment ",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M407 ,Automatic hump retarder failed to sufficiently slow car due to foreign material on wheels of car being humped,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M408 ,Yard skate slid and failed to stop cars ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M409 ,Objects such as lading chains or straps fouling switches ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M410 ,Objects such as lading chains or straps fouling wheels ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M411,Passed couplers (automated classification yard),Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M501 ,Interference (other than vandalism) with railroad operations by nonrailroad employee ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M502 ,"Vandalism of on-track equipment, e.g., brakes released",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M503 ,"Vandalism of track or track appliances, e.g., objects  placed on track, switch thrown, etc.",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M504 ,"Failure by non railroad employee, e.g., industry employee, to control speed of car using hand brake ",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M505 ,Cause under active investigation by reporting railroad  (Amended report will be forwarded when reporting railroad’s active investigation has been completed.) ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M506,Track damage caused by non-railroad interference with track structure,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M507,"Investigation complete, cause could not be determined (When using this code, the narrative must include the reason(s) why the cause of the accident/incident could not be determined.)",Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+M599 ,Other miscellaneous causes (Provide detailed description in narrative) ,Loading Procedures,Miscellaneous Causes Not Otherwise Listed
+T101 ,Cross level of track irregular (at joints) , Track Geometry,"Rack, Roadbed and Structures"
+T109 ,Track alignment irregular (buckled/sunkink) , Track Geometry,"Rack, Roadbed and Structures"
+T301 ,"Derail, defective ","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T302,Expansion joint failed or malfunctioned ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T303,Guard rail loose/broken or mislocated ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T304,"Railroad crossing frog, worn or broken ","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T305,"Retarder worn, broken, or malfunctioning ","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T306,Retarder yard skate defective ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T307 ,Spring/power switch mechanism malfunction ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T308 ,"Stock rail worn, broken or disconnected","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T309 ,"Switch (hand operated) stand mechanism broken, loose, or worn ","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T310 ,Switch connecting or operating rod is broken or defective ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T311 ,Switch damaged or out of adjustment ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T312,Switch lug/crank broken ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T313,Switch out of adjustment because of insufficient rail anchoring ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T314,Switch point worn or broken ,"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T315,"Switch rod worn, bent, broken, or disconnected ","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T316,"Turnout frog (rigid) worn, or broken ","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T317 ,"Turnout frog (self guarded), worn or broken","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T318 ,"Turnout frog (spring) worn, or broken ","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T319,Switch point gapped (between switch point and stock rail),"Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T399,"Other frog, switch and track appliance defects (Provide detail","Frogs, Switches and Track Appliances","Rack, Roadbed and Structures"
+T401,Bridge misalignment or failure ,Other Way and Structure,"Rack, Roadbed and Structures"
+T402,Flangeway clogged ,Other Way and Structure,"Rack, Roadbed and Structures"
+T403,Engineering design or construction ,Other Way and Structure,"Rack, Roadbed and Structures"
+T404,Catenary system defect,Other Way and Structure,"Rack, Roadbed and Structures"
+T499 ,Other way and structure defect (Provide detailed description in narrative),Other Way and Structure,"Rack, Roadbed and Structures"
+T201,Broken Rail - Bolt hole crack or break ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T202,.Broken Rail - Base,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T203,Broken Rail - Weld (plant) ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T204,Broken Rail - Weld (field) ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T205,Defective or missing crossties (use code T110 if results in wide gage),"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T206 ,Defective spikes or missing spikes or other rail fasteners (use code T111 if results in wide gage),"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T207,Broken Rail - Detail fracture from shelling or head check ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T208,Broken Rail - Engine burn fracture ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T210,Broken Rail - Head and web separation (outside joint bar limits) ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T211,Broken Rail - Head and web separation (within joint bar limits) ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T212,Broken Rail - Horizontal split head ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T213,Joint bar broken (compromise) ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T214,Joint bar broken (insulated) ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T215 ,Joint bar broken (noninsulated),"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T216 ,"Joint bolts, broken, or missing","Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T217,Mismatched rail‑head contour ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T218 ,Broken Rail - Piped rail ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T219,Rail defect with joint bar repair ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T220 ,Broken Rail - Transverse/compound fissure  ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T221 ,Broken Rail - Vertical split head  ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T222,Worn rail ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T223,"Rail Condition - Dry rail, freshly ground rail.","Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T299,Other rail and joint bar defects (Provide detailed description in narrative)  ,"Rail, Joint Bar and Rail Anchoring","Rack, Roadbed and Structures"
+T001 ,Roadbed settled or soft ,Roadbed,"Rack, Roadbed and Structures"
+T002,Washout/rain/slide/flood/snow/ice damage to track ,Roadbed,"Rack, Roadbed and Structures"
+T099,Other roadbed defects (Provide detailed description in narrative) ,Roadbed,"Rack, Roadbed and Structures"
+T102 ,Cross level of track irregular (not at joints),Track Geometry,"Rack, Roadbed and Structures"
+T103,Deviation from uniform top of rail profile,Track Geometry,"Rack, Roadbed and Structures"
+T104 ,Disturbed ballast section ,Track Geometry,"Rack, Roadbed and Structures"
+T105 ,Insufficient ballast section,Track Geometry,"Rack, Roadbed and Structures"
+T106,"Superelevation improper, excessive, or insufficient ",Track Geometry,"Rack, Roadbed and Structures"
+T107,Superelevation runoff improper ,Track Geometry,"Rack, Roadbed and Structures"
+T108,Track alignment irregular (other than buckled/sunkink) ,Track Geometry,"Rack, Roadbed and Structures"
+T110,Wide gage (due to defective or missing crossties) ,Track Geometry,"Rack, Roadbed and Structures"
+T111 ,Wide gage (due to defective or missing spikes or other rail fasteners) ,Track Geometry,"Rack, Roadbed and Structures"
+T112 ,"Wide gage (due to loose, broken, or defective gage rods) ",Track Geometry,"Rack, Roadbed and Structures"
+T113 ,Wide gage (due to worn rails) ,Track Geometry,"Rack, Roadbed and Structures"
+T199 ,Other track geometry defects (Provide detailed description in narrative) ,Track Geometry,"Rack, Roadbed and Structures"
+S001,Automatic cab signal displayed false proceed ,Signal and Communication,Signal and Communication
+S002,Automatic cab signal inoperative ,Signal and Communication,Signal and Communication
+S003,Automatic train control system inoperative,Signal and Communication,Signal and Communication
+S004,Automatic train‑stop device inoperative ,Signal and Communication,Signal and Communication
+S005,Block signal displayed false proceed ,Signal and Communication,Signal and Communication
+S006,Classification yard automatic control system switch failure,Signal and Communication,Signal and Communication
+S007,Classification yard automatic control system retarder failure ,Signal and Communication,Signal and Communication
+S008 ,Fixed signal improperly displayed (defective),Signal and Communication,Signal and Communication
+S009 ,Interlocking signal displayed false proceed ,Signal and Communication,Signal and Communication
+S010 ,Power device interlocking failure ,Signal and Communication,Signal and Communication
+S011 ,Power switch failure ,Signal and Communication,Signal and Communication
+S012 ,Radio communication equipment failure,Signal and Communication,Signal and Communication
+S013,Other communication equipment failure ,Signal and Communication,Signal and Communication
+S014,Computer system design error (vendor) ,Signal and Communication,Signal and Communication
+S015,Computer system configuration/management error (vendor) ,Signal and Communication,Signal and Communication
+S016 ,"Classification yard automatic control system - Inadequate or insufficient control  (e.g., automatic cycling, other software / programming deficiencies, etc.) ",Signal and Communication,Signal and Communication
+S099,Other signal failures (Provide detailed description in narrative) ,Signal and Communication,Signal and Communication
+S101,Remote control transmitter defective ,Signal and Communication,Signal and Communication
+S102,"Remote control transmitter, loss of communication.   ",Signal and Communication,Signal and Communication
+S103,Radio controlled switch communication failure,Signal and Communication,Signal and Communication
+S104,Radio controlled switch not locked effectively,Signal and Communication,Signal and Communication
+H008 ,Improper operation of train line air connections  (bottling the air) ,"Brakes, Use of",Train operation - Human Factors
+H017 ,Failure to properly secure engine(s) (railroad employee) ,"Brakes, Use of",Train operation - Human Factors
+H018 ,Failure to properly secure hand brake on car(s) (railroad  employee),"Brakes, Use of",Train operation - Human Factors
+H019 ,Failure to release hand brakes on car(s) (railroad employee),"Brakes, Use of",Train operation - Human Factors
+H020 ,Failure to apply sufficient number of hand brakes on car(s) (railroad employee) ,"Brakes, Use of",Train operation - Human Factors
+H021 ,Failure to apply hand brakes on car(s) (railroad employee),"Brakes, Use of",Train operation - Human Factors
+H022 ,Failure to properly secure engine(s) or car(s) (non railroad employee),"Brakes, Use of",Train operation - Human Factors
+H025 ,Failure to control speed of car using hand brake (railroad employee),"Brakes, Use of",Train operation - Human Factors
+H099 ,"Use of brakes, other (Provide detailed description in narrative) ","Brakes, Use of",Train operation - Human Factors
+H821 ,"Automatic cab signal, failure to comply ",Cab Signals,Train operation - Human Factors
+H822 ,Automatic cab signal cut out ,Cab Signals,Train operation - Human Factors
+H823 ,Automatic train‑stop device cut out ,Cab Signals,Train operation - Human Factors
+H824 ,Automatic train control device cut out ,Cab Signals,Train operation - Human Factors
+H899 ,Other causes relating to cab signals (provide detailed description in narrative) ,Cab Signals,Train operation - Human Factors
+H101 ,Impairment of efficiency or judgment because of drugs or alcohol,Employee Physical Condition,Train operation - Human Factors
+H102 ,Incapacitation due to injury or illness ,Employee Physical Condition,Train operation - Human Factors
+H103 ,Employee restricted in work or motion ,Employee Physical Condition,Train operation - Human Factors
+H104 ,Employee asleep ,Employee Physical Condition,Train operation - Human Factors
+H199 ,"Employee physical condition, other (Provide detailed description in narrative) ",Employee Physical Condition,Train operation - Human Factors
+H201 ,"Blue Signal, absence of","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H202 ,"Blue Signal, imperfectly displayed ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H205 ,"Flagging, improper or failure to flag ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H206 ,"Flagging signal, failure to comply ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H207 ,"Hand signal, failure to comply ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H208 ,Hand signal improper ,"Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H209 ,"Hand signal, failure to give/receive ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H210 ,"Radio communication, failure to comply ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H211 ,"Radio communication, improper ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H212 ,"Radio communication, failure to give/receive ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H217 ,Failure to observe hand signals given during a wayside inspection of  moving train,"Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H218,Failure to comply with failed equipment detector warning or with applicable train inspection rules.,"Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H219,"Fixed signal (other than automatic block or interlocking signal), improperly displayed. ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H220,"Fixed signal (other than automatic block or interlocking signal), failure to comply. ","Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H221,Automatic block or interlocking signal displaying a stop indication - failure to comply.*,"Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H222,Automatic block or interlocking signal displaying other than a stop indication - failure to comply.*,"Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H299,Other signal causes (Provide detailed description in narrative),"Flagging, Fixed, Hand and Radio Signals ",Train operation - Human Factors
+H301 ,Car(s) shoved out and left out of clear ,General Switching Rules,Train operation - Human Factors
+H302 ,Cars left foul ,General Switching Rules,Train operation - Human Factors
+H303 ,"Derail, failure to apply or remove ",General Switching Rules,Train operation - Human Factors
+H304 ,"Hazardous materials regulations, failure to comply ",General Switching Rules,Train operation - Human Factors
+H305 ,Instruction to train/yard crew improper ,General Switching Rules,Train operation - Human Factors
+H306 ,"Shoving movement, absence of man on or at leading end of movement",General Switching Rules,Train operation - Human Factors
+H307 ,"Shoving movement, man on or at leading end of movement, failure to control",General Switching Rules,Train operation - Human Factors
+H308 ,"Skate, failure to remove or place ",General Switching Rules,Train operation - Human Factors
+H309 ,Failure to stretch cars before shoving ,General Switching Rules,Train operation - Human Factors
+H310 ,Failure to couple ,General Switching Rules,Train operation - Human Factors
+H311 ,"Moving cars while loading ramp/hose/chute/cables/bridge plate, etc., not in proper position",General Switching Rules,Train operation - Human Factors
+H312 ,Passed couplers (other than automated classification yard),General Switching Rules,Train operation - Human Factors
+H313 ,"Retarder, improper manual operation ",General Switching Rules,Train operation - Human Factors
+H314 ,Retarder yard skate improperly applied ,General Switching Rules,Train operation - Human Factors
+H315 ,"Portable derail, improperly applied ",General Switching Rules,Train operation - Human Factors
+H316,Manual intervention of classification yard automatic control system modes by operator,General Switching Rules,Train operation - Human Factors
+H317,"Humping or cutting off in motion equipment susceptible to damage, or to cause damage to other equipment",General Switching Rules,Train operation - Human Factors
+H318,"Kicking or dropping cars, inadequate precautions ",General Switching Rules,Train operation - Human Factors
+H399 ,Other general switching rules (Provide detailed  description in narrative) ,General Switching Rules,Train operation - Human Factors
+M399 ,Other causes (Provide detailed description in narrative) ,Loading Procedures,Train operation - Human Factors
+H401 ,Failure to stop train in clear ,Main Track Authority,Train operation - Human Factors
+H402 ,"Motor car or on‑track equipment rules, failure to comply ",Main Track Authority,Train operation - Human Factors
+H403 ,Movement of engine(s) or car(s) without authority  (railroad employee) ,Main Track Authority,Train operation - Human Factors
+H404 ,"Train order, track warrant, track bulletin, or timetable authority, failure to comply",Main Track Authority,Train operation - Human Factors
+H405 ,"Train orders, track warrants, direct traffic control, track bulletins, radio, error in preparation,  transmission or delivery ",Main Track Authority,Train operation - Human Factors
+H406 ,"Train orders, track warrants, direct traffic control, track bulletins, written, error in preparation, transmission or delivery",Main Track Authority,Train operation - Human Factors
+H499 ,Other main track authority causes (Provide detailed description in narrative)  ,Main Track Authority,Train operation - Human Factors
+H991 ,Tampering with safety/protective device(s) ,Miscellaneous,Train operation - Human Factors
+H992 ,Operation of locomotive by uncertified/unqualified person,Miscellaneous,Train operation - Human Factors
+H993,Human Factor - track,Miscellaneous,Train operation - Human Factors
+H994,Human Factor - Signal installation or maintenance error (field),Miscellaneous,Train operation - Human Factors
+H995,Human Factor - motive power and equipment,Miscellaneous,Train operation - Human Factors
+H996,"Oversized loads or Excess Height/Width cars, mis-routed or switched.",Miscellaneous,Train operation - Human Factors
+H997,Motor car or other on-track equipment rules (other than main track authority) - Failure to Comply.,Miscellaneous,Train operation - Human Factors
+H999,Other train operation/human factors (Provide detailed description in narrative),Miscellaneous,Train operation - Human Factors
+H99A,Human Factor - Signal - Train Control - Installation or maintenance error (shop).,Miscellaneous,Train operation - Human Factors
+H99B,Human Factor - Signal - Train Control - Operator Input On-board computer incorrect data entry.,Miscellaneous,Train operation - Human Factors
+H99C,Human Factor - Signal - Train Control - Operator Input On-board computer incorrect data provided,Miscellaneous,Train operation - Human Factors
+H99D,Computer system design error (non vendor),Miscellaneous,Train operation - Human Factors
+H99E,Computer system configuration/management error (non vendor),Miscellaneous,Train operation - Human Factors
+H601 ,Coupling speed excessive ,Speed,Train operation - Human Factors
+H602 ,"Switching movement, excessive speed ",Speed,Train operation - Human Factors
+H603 ,"Train on main track inside yard limits, excessive speed ",Speed,Train operation - Human Factors
+H604 ,"Train outside yard limits, in block signal or interlocking territory, excessive speed",Speed,Train operation - Human Factors
+H605,Failure to comply with restricted speed in connection with the restrictive indication of a block or interlocking signal.,Speed,Train operation - Human Factors
+H606,"Train outside yard limits in non block territory, excessive speed",Speed,Train operation - Human Factors
+H607,Failure to comply with restricted speed or its equivalent not in connection with a block or interlocking signal.,Speed,Train operation - Human Factors
+H699 ,"Speed, other (Provide detailed description in narrative) ",Speed,Train operation - Human Factors
+H701 ,Spring Switch not cleared before reversing ,"Switches, Use of",Train operation - Human Factors
+H702 ,Switch improperly lined ,"Switches, Use of",Train operation - Human Factors
+H703 ,Switch not latched or locked ,"Switches, Use of",Train operation - Human Factors
+H704 ,Switch previously run through ,"Switches, Use of",Train operation - Human Factors
+H705 ,Moveable point switch frog improperly lined,"Switches, Use of",Train operation - Human Factors
+H706,"Switch improperly lined, radio controlled","Switches, Use of",Train operation - Human Factors
+H707,Radio controlled switch not locked effectively,"Switches, Use of",Train operation - Human Factors
+H799 ,"Use of switches, other (Provide detailed description in narrative) ","Switches, Use of",Train operation - Human Factors
+H501 ,Improper train make‑up at initial terminal ,Train Handling / Train Make-Up,Train operation - Human Factors
+H502 ,Improper placement of cars in train between terminals ,Train Handling / Train Make-Up,Train operation - Human Factors
+H503 ,"Buffing or slack action excessive, train handling ",Train Handling / Train Make-Up,Train operation - Human Factors
+H504 ,"Buffing or slack action excessive, train make‑up ",Train Handling / Train Make-Up,Train operation - Human Factors
+H505 ,"Lateral drawbar force on curve excessive, train handling ",Train Handling / Train Make-Up,Train operation - Human Factors
+H506 ,"Lateral drawbar force on curve excessive, train make‑up ",Train Handling / Train Make-Up,Train operation - Human Factors
+H507 ,"Lateral drawbar force on curve excessive, car geometry (short car/long car combination)",Train Handling / Train Make-Up,Train operation - Human Factors
+H508 ,Improper train make‑up ,Train Handling / Train Make-Up,Train operation - Human Factors
+H509 ,Improper train inspection,Train Handling / Train Make-Up,Train operation - Human Factors
+H510,"Automatic brake, insufficient (H001) -- see note after cause H599",Train Handling / Train Make-Up,Train operation - Human Factors
+H511,"Automatic brake, excessive (H002) ",Train Handling / Train Make-Up,Train operation - Human Factors
+H512,"Automatic brake, failure to use split reduction (H003) ",Train Handling / Train Make-Up,Train operation - Human Factors
+H513,"Automatic brake, other improper use (H004) ",Train Handling / Train Make-Up,Train operation - Human Factors
+H514,Failure to allow air brakes to fully release before proceeding (H005),Train Handling / Train Make-Up,Train operation - Human Factors
+H515,Failure to properly cut‑out brake valves on locomotives (H006),Train Handling / Train Make-Up,Train operation - Human Factors
+H516,Failure to properly cut‑in brake valves on locomotives (H007),Train Handling / Train Make-Up,Train operation - Human Factors
+H517,"Dynamic brake, insufficient (H009) ",Train Handling / Train Make-Up,Train operation - Human Factors
+H518,"Dynamic brake, excessive (H010) ",Train Handling / Train Make-Up,Train operation - Human Factors
+H519,"Dynamic brake, too rapid adjustment (H011) ",Train Handling / Train Make-Up,Train operation - Human Factors
+H520,"Dynamic brake, excessive axles (H012)",Train Handling / Train Make-Up,Train operation - Human Factors
+H521,"Dynamic brake, other improper use (H013)",Train Handling / Train Make-Up,Train operation - Human Factors
+H522,"Throttle (power), improper use (H014)",Train Handling / Train Make-Up,Train operation - Human Factors
+H523,"Throttle (power), too rapid adjustment (H015) ",Train Handling / Train Make-Up,Train operation - Human Factors
+H524,Excessive horsepower (H016),Train Handling / Train Make-Up,Train operation - Human Factors
+H525,"Independent (engine) brake, improper use (except actuation) (H023)",Train Handling / Train Make-Up,Train operation - Human Factors
+H526,Failure to actuate off independent brake (H024) ,Train Handling / Train Make-Up,Train operation - Human Factors
+H599 ,Other causes relating to train handling or makeup (Provide detailed description in narrative) ,Train Handling / Train Make-Up,Train operation - Human Factors
