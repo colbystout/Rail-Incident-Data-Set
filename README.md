@@ -2,7 +2,7 @@
 
 ## About
 
-This is a data set of 10 years worth of any railway incident in the United States. This data set is free for anyone to downoad and analyze as a public, government-owned data set. I compiled the data myself into a comprehensive file, but the original data source can be located at the link below. Feel free to contact me with any questions.
+This is a data set of 10 years worth of any railway incident in the United States from the FRA. This data set is free for anyone to downoad and analyze as a public, government-owned data set. I compiled the data myself into a comprehensive file, but the original data source can be located at the link below. Feel free to contact me with any questions.
 
 ## Contents
 
